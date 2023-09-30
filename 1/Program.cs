@@ -16,9 +16,10 @@ for (int i = 1; i <=Bint; i++)
 {
     Res=Res*Aint;
 }
-Console.WriteLine(Res);
+//Console.WriteLine(Res);
 return Res;
 }
-Degree(3,5);
- 
+//Degree(3,5);
+int D=Degree(3,5);
+Console.WriteLine(D);
 
